@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+/*body {
+    text-align: center;
+    padding: 100px;
+}*/
+
+body {
+    padding-top: 50px;
+}
+
+.panel-gold {
+    border-color: gold;
+}
+.panel-gold >.panel-heading {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
